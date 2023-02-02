@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SBp4AEHmgSAKZ1TEHRjOMKkpH4kJ13icSQXCk6dvnELpxhIZiRXX8S4C8WPhysLUZ5hahJalTYwcO+fZh6SqFQ==",
+  "dgSpecHash": "0FSrPIvlC/EmzSaf1ZvRDm7cnnN/ZP0dOlfPops2IPhYiBDKQxFcaDf+NNYOagdQmedbXy1A0iEpjZ3owQu6ZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Olbia\\source\\repos\\MyFinalProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Olbia\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
     "C:\\Users\\Olbia\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Olbia\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\Olbia\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
