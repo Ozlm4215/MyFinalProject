@@ -34,7 +34,7 @@ namespace WebAPI.Controllers
             return BadRequest(result.Message);
         }
 
-        [HttpGet("getById")]
+        [HttpGet("get")]
         public IActionResult GetById(int id)
         {
             var result = _productService.GetById(id);
@@ -55,5 +55,6 @@ namespace WebAPI.Controllers
             }
             return BadRequest(result.Message);
         }
+       
     }
 }

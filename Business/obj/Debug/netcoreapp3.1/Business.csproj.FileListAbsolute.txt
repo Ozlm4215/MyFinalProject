@@ -3,11 +3,6 @@ C:\Users\ÖzlemYILMAZ\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3
 C:\Users\ÖzlemYILMAZ\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
 C:\Users\ÖzlemYILMAZ\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
 C:\Users\ÖzlemYILMAZ\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
-C:\Users\Olbia\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
-C:\Users\Olbia\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Olbia\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
-C:\Users\Olbia\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
-C:\Users\Olbia\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
 C:\Users\Olbia\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.1\Business.deps.json
 C:\Users\Olbia\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.1\Business.dll
 C:\Users\Olbia\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.1\Business.pdb
@@ -17,6 +12,11 @@ C:\Users\Olbia\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.1\Enti
 C:\Users\Olbia\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
 C:\Users\Olbia\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.1\Entities.pdb
 C:\Users\Olbia\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Olbia\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Olbia\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olbia\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Olbia\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Olbia\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
 C:\Users\Olbia\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
 C:\Users\Olbia\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.dll
 C:\Users\Olbia\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.pdb
